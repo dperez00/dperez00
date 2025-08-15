@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React/Typescript Projects.<br>🌱 I’m currently learning React Testing <br>💬 Ask me about Shopify/Front end projects.<br>📫 How to reach me: perez.david3001@gmail.com<br>
+🔭 I’m currently working on React/Typescript Projects.<br>🌱 I’m currently learning Node.js <br>💬 Ask me about Shopify/Front end projects.<br>📫 How to reach me: perez.david3001@gmail.com<br>
 <br>
 <img alt="Coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
